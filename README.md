@@ -1,4 +1,7 @@
 # disneyland_branch_project
+
+https://nbviewer.jupyter.org/github/kiryouri/disneyland_branch_project/blob/main/disney_project.ipynb
+
 The dataset includes 42,000 reviews of 3 Disneyland branches - Paris, California and Hong Kong, posted by visitors on Trip Advisor.
 
 Column Description:
