@@ -12,3 +12,5 @@ Column Description:
 <li><b>Reviewer_Location</b>: country of origin of visitor</li>
 <li><b>Disneyland_Branch</b>: location of Disneyland Park</li>
 </ol>
+
+  Использованные библиотеки: numpy, pandas, seaborn, matplotlib, модуль stats из scipy
